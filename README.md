@@ -115,6 +115,23 @@ Dan hasil perubhan seperti berikut :
 ![image](https://user-images.githubusercontent.com/56193251/115570414-49d8f600-a2e8-11eb-9f46-3976dfb6700d.png)
 
 
+**Pertanyaan Dan Jawaban Tugas**
+
+1. Tambahkan Layout untuk menu About => Membuat single Layout yang berisi deskripsi, portofolio, dll.
+
+**jawab**
+
+![Screenshot (111)](https://user-images.githubusercontent.com/56193251/115684024-329a1700-a381-11eb-8a73-4d5f72bc65eb.png)
+
+
+2. Tambahkan Layout untuk menu Contact => Nama, Message, Email, dll.
+
+**Jawaba**
+
+![Screenshot (110)](https://user-images.githubusercontent.com/56193251/115684269-6b39f080-a381-11eb-8ff3-f3e41c5df455.png)
+
+
+
 
 
 
